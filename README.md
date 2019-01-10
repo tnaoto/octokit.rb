@@ -709,12 +709,10 @@ when writing new specs.
 This library aims to support and is [tested against][travis] the following Ruby
 implementations:
 
-* Ruby 2.0
-* Ruby 2.1
-* Ruby 2.2
 * Ruby 2.3
 * Ruby 2.4
 * Ruby 2.5
+* Ruby 2.6
 
 If something doesn't work on one of these Ruby versions, it's a bug.
 
